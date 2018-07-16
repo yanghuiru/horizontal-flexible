@@ -1,0 +1,24 @@
+{
+  "name": "horizontal-flexible",
+  "version": "1.0.0",
+  "description": "horizontal-flexible",
+  "main": "flexible.js",
+  "scripts": {
+    "test": "echo \\\\\\\"Error: no test specified\\\\\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanghuiru/horizontal-flexible.git"
+  },
+  "keywords": [
+    "mobile",
+    "horization",
+    "flexible"
+  ],
+  "author": "huiru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanghuiru/horizontal-flexible/issues"
+  },
+  "homepage": "https://github.com/yanghuiru/horizontal-flexible#readme"
+}
